@@ -5,15 +5,15 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## ✨ Features
 
-- **🧩 Microfrontend Architecture**
+- 🧩 Microfrontend Architecture
   - Independent microfrontend apps for Home, About Me, Work, Resume, and Contact pages.
-- **🎨 Modern Design**
+- 🎨 Modern Design
   - Inspired by [pierre.io](https://pierre.io/), tailored for my personal branding.
-- **📱 Responsive UI**
+- 📱 Responsive UI
   - Fully optimized for mobile, tablet, and desktop devices.
-- **🌗 Dark Mode**
+- 🌗 Dark Mode
   - Customizable light and dark themes.
-- **🚀 Seamless Navigation**
+- 🚀 Seamless Navigation
   - Smooth page transitions powered by React Router.
 
 ---

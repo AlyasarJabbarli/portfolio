@@ -5,7 +5,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## ✨ Features
 
-- **🧩 Microfrontend Architecture**
+- __🧩 Microfrontend Architecture__
   - Independent microfrontend apps for Home, About Me, Work, Resume, and Contact pages.
 - **🎨 Modern Design**
   - Inspired by [pierre.io](https://pierre.io/), tailored for my personal branding.
